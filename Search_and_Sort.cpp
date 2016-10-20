@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : Search_and_Sort.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Author      : Mick Padgett
+// Version     : 1.0
+// Copyright   : October 20, 2016
+// Description : Simple search and sort program 
 //============================================================================
 
 #include <iostream>
